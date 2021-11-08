@@ -1,8 +1,8 @@
-# Link To My Project [Parallax Website](https://nurkocar.github.io/Parallax-Website/)
+# Link To My Project [Parallax Website](https://johns-coder.github.io/parallax-web-design-JohnScoder/)
 
 ## Here is the view of my project...
 
-![Parallax Website](./img/ParallaxWebsite.gif)
+![Parallax Website](./img/ParallaxWeb-ByJohnScoder.gif)
 
 
 # Project-003 : Parallax Website (HC-03)
